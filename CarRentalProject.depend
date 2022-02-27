@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1635426273 source:s:\car_rental_project\carrentalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<time.h>
+
+1386340778 s:\car_rental_project\carrentalproject\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386420876 source:s:\car_rental_project\carrentalproject\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635428751 source:s:\car_rental_project\carrentalproject\car.c
+	<stdio.h>
+	"conio2.h"
+	"car.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1634937179 s:\car_rental_project\carrentalproject\car.h
+	<time.h>
+
+1635428751 source:f:\car_rental_project\carrentalproject\car.c
+	<stdio.h>
+	"conio2.h"
+	"car.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1386340778 f:\car_rental_project\carrentalproject\conio2.h
+	<conio.h>
+	<windows.h>
+
+1634937179 f:\car_rental_project\carrentalproject\car.h
+	<time.h>
+
+1386420876 source:f:\car_rental_project\carrentalproject\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635426273 source:f:\car_rental_project\carrentalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<time.h>
+
+1635428751 source:f:\car_rental_project\new folder\carrentalproject\car.c
+	<stdio.h>
+	"conio2.h"
+	"car.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1386340778 f:\car_rental_project\new folder\carrentalproject\conio2.h
+	<conio.h>
+	<windows.h>
+
+1634937179 f:\car_rental_project\new folder\carrentalproject\car.h
+	<time.h>
+
+1386420876 source:f:\car_rental_project\new folder\carrentalproject\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635426273 source:f:\car_rental_project\new folder\carrentalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<time.h>
+
